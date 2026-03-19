@@ -4,15 +4,16 @@
 
 Built for the **TzN** brand, this project adds custom styling, menu/game enhancements, and settings that help create a cleaner and more distinctive in-game experience.
 
-## Highlights
+## Features
 
 - **TzN clan tag customization**
 - **Animated UI effects**
 - **Leaderboard and player highlight styling**
-- **Menu and in-game visual adjustments**
 - **Settings support for mod behavior** (F8)
 - **Twitch-related integration options**
 - **Premium black/gold themed branding**
+- **Reminder Blocker**
+- **Custom Game Audio**
 
 ## Overview
 
