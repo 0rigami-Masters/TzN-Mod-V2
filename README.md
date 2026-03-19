@@ -27,3 +27,6 @@ The goal is to combine:
 
 ## Download
 [TzN Releases](https://github.com/0rigami-Masters/TzN-Mod-V2/releases/tag/Mod)
+
+## TzN Discord
+[TzN Community](https://discord.gg/26bmFsTjvx)
