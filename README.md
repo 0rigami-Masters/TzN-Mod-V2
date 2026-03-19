@@ -23,3 +23,6 @@ The goal is to combine:
 - competitive identity
 - quality-of-life improvements
 - flexible customization
+
+## Download
+[TzN Releases](https://github.com/0rigami-Masters/TzN-Mod-V2/releases/tag/Mod)
