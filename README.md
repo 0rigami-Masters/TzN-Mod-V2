@@ -25,7 +25,8 @@ Built for the **TzN** brand, this project adds custom styling, menu/game enhance
 - F5 - Refresh current link
 - F6 - Join Link from "https://venge.io/#XXXX" Format (CLIPBOARD)
 - F7 - Venge Client Settings
-- F8 - TzN Mod Settings
+- F8 - Hide UI Elements
+- F9 - TzN Mod Settings
 - F11 - Full Screen
 
 ## Overview
